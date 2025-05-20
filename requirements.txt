@@ -1,0 +1,9 @@
+requests
+pytz
+aiogram
+asyncio
+google-auth
+google-auth-oauthlib
+google-api-python-client
+python-dateutil
+docx
