@@ -1,0 +1,24 @@
+# Ignore configuration files with secret data
+config.py
+*.env
+
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore database file
+*.json
+*.db
+*.mp4
+
+# Ignore system files macOS and Windows
+.DS_Store
+Thumbs.db
